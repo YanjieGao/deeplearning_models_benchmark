@@ -6,7 +6,7 @@
 
 - [MXNet CV: VGG16, InceptionV3, ResNet50, MobileNetV2](https://github.com/apache/incubator-mxnet/tree/master/example/image-classification/symbols) 
 
-- [Horovod CV: VGG16, InceptionV3, ResNet50, MobileNetV2](https://github.com/horovod/horovod/tree/master/examples)
+- [Horovod CV: ResNet50](https://github.com/horovod/horovod/tree/master/examples)
 
 - [TensorFlow BERT](https://github.com/google-research/bert)
 
